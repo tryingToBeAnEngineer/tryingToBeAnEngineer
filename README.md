@@ -1,5 +1,6 @@
 - @tryingToBeAnEngineer
 - Electric-Electronics Engineering student
+- Game developer and programmer
 - Open for new project ideas
-- 📫 abaskaya20@posta.pau.edu.tr
+- 📫 ahmet.bsnss@gmail.com
 - Discord:#Eclipse#9331
