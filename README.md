@@ -9,4 +9,4 @@
 - Open for new project ideas
 - 📫 ahmet.bsnss@gmail.com
 - Discord:#Eclipse#9331
-- Repos are not visible
+- Repos are not visible for the public
