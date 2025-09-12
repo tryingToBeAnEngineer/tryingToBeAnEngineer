@@ -1,6 +1,11 @@
 - @tryingToBeAnEngineer
-- Electric-Electronics Engineering student
-- Game developer and programmer
+- Electrical-Electronics Engineering Student
+- Computer Programming Student
+- Game Developer and Programmer
+- C, C++
+- Python
+- FPGA & VHDL Design
+- HTML-CSS-Bootstrap
 - Open for new project ideas
 - 📫 ahmet.bsnss@gmail.com
 - Discord:#Eclipse#9331
